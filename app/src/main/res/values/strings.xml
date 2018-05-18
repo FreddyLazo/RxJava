@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <string name="start_operation_text">Start</string>
+</resources>
